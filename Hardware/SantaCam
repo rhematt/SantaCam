@@ -1,0 +1,8 @@
+Qty,partname,description,lib
+0,"BC547","45V Vce, 0.1A Ic, NPN, Small Signal Transistor, TO-92","transistors"
+0,"BC557","45V Vce, 0.1A Ic, PNP Small Signal Transistor, TO-92","transistors"
+0,"C","Unpolarized capacitor","device"
+0,"CONN_01X02","Connector, single row, 01x02","conn"
+0,"LED","","device"
+0,"R","Resistor","device"
+0,"SPST","Interrupteur simple","device"
